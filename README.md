@@ -39,9 +39,8 @@ by providing summary of the lectures.
  
 
 ## 👦 Overview
-Creators face a major problem of managing deals & projects, accepting & managing payments, manage invoices, accept tips from fans, and many more.
-we develop a solution for the creator economy which helps to manage their day-to-day task
-and makes their life a lot simpler.
+   Make easy comprehensive notes, which can be easily used for self study purposes,
+   revise any chapter in minutes just before an exam and present notes in a well articulated manner.
     
 ##🏽‍🔧 Tech Stack
 The project is created using
