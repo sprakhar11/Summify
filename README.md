@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sprakhar11/Summify/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# 📖 SUMMIFY
+### Online lectures  made easy,
+by providing summary of the lectures.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![Developer](https://img.shields.io/badge/developer-sprakhar11-brightgreen)
+![Designer ](https://img.shields.io/badge/designer-Luckyybhagat-brightgreen)
+![Developer](https://img.shields.io/badge/developer-srivasPankhuri-orange)
+![Designer](https://img.shields.io/badge/developer-PragatiVerma18-orange)
 
-# Header 1
-## Header 2
-### Header 3
+![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+![Language](https://img.shields.io/github/languages/top/sprakhar11/Summify)
+![Size](https://img.shields.io/github/repo-size/sprakhar11/Summify)
+## 💬 Task 
 
-**Bold** and _Italic_ and `Code` text
+  Making Notes Easy
 
-[Link](url) and ![Image](src)
-```
+# This project is a part of Devfest2.0 .
+  Hackathon - by BITS GOA
+  ### About Devfest2.0 2021 💻
+  Devfest is the week-long completely online technical fest organized by DevSoc, Development Society, BITS Pilani Goa campus. In this one weekbwe will be going on an exciting adventure of technical events, workshops to learn new skills and hackathons where teams rack their brainsbto find solutions to real-world problems.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+⭐ [Check out the website of Devfest](https://fest.devsoc.club/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sprakhar11/Summify/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 📋 Table of Contents
+ ➡️   [Overview](#-overview)
+ 
+ ➡️   [Tech Stack](#-tech-stack)
+ 
+ ➡️   [Features](#-features)
+ 
+ ➡️   [Future Plans](#-future-plans)
+ 
 
-### Support or Contact
+## 👦 Overview
+Creators face a major problem of managing deals & projects, accepting & managing payments, manage invoices, accept tips from fans, and many more.
+we develop a solution for the creator economy which helps to manage their day-to-day task
+and makes their life a lot simpler.
+    
+##🏽‍🔧 Tech Stack
+The project is created using
+-  JavaScript
+-  HTML
+-  CSS
+-  ML
+-  NLP
+-  FIGMA
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## ✨ Features
+i) Save time:
+       Summarises all your lectures, makes your process of learning simpler. Also, helps students to revise easily at the time of their examination.
+   
+ii) Personalized learning:
+      This helps a student to revise the concept in a well-structured manner. This feature helps in last-minute revision.
+      
+iii) Free:
+      It’s free of cost! To make the study easy, and accessible to all the students, and can benefit from the same.
+      
+
+
+
+
+## Made With ❤️ by our style.css Team.
+
