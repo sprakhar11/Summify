@@ -35,7 +35,7 @@ by providing summary of the lectures.
  
  ➡️   [Features](#-features)
  
- ➡️   [Future Plans](#-future-plans)
+<!--  ➡️   [Future Plans](#-future-plans) -->
  
 
 ## 👦 Overview
